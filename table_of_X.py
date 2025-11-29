@@ -1,5 +1,4 @@
 a = 10
-print('', end='')
 
 for i in range(1, a):
     for j in range(1, a):
